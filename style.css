@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+}
+
+canvas {
+    background-color: pink;
+}
+
+#status {
+    font-weight: bolder;
+    color: red;
+}
